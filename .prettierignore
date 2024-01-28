@@ -1,0 +1,7 @@
+# adding file names whome prettier should not disturb
+/.vscode
+/node_modules
+./dist
+*.env
+.env
+.env.*
